@@ -2,7 +2,7 @@ title: Suspicious Download from PowerShell
 id: d7a11611-40eb-442e-b7fe-150cc7c1ae0a
 status: experimental 
 description: > 
-  It will look for suspicious downloads and by suspicious I mean downloads that contain: Invoke-WebRequest, curl, wget or Net.webClient
+  It will look for suspicious downloads and by suspicious I mean downloads that contain: curl, wget or Net.webClient
 references:
     - https://sigmahq.io/docs/basics/rules.html
 author: Vicentia Stroe
